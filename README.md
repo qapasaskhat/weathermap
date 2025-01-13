@@ -20,7 +20,7 @@
 npm install -g expo-cli
 
 # Клонируйте репозиторий:  
-git clone git@github.com:qapasaskhat/weathermap.git
+git clone https://github.com/qapasaskhat/weathermap.git
 
 # Перейдите в директорию проекта:  
 cd project-name
@@ -35,6 +35,7 @@ expo start
 # или
 npx expo start
 
+```bash
 📱 Запуск на устройствах
 Android
 1. Установите приложение Expo Go из Google Play.
