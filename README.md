@@ -35,7 +35,8 @@ expo start
 # или
 npx expo start
 
-```bash
+```
+
 📱 Запуск на устройствах
 Android
 1. Установите приложение Expo Go из Google Play.
