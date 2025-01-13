@@ -19,22 +19,18 @@
 ```bash
 npm install -g expo-cli
 
-Клонируйте репозиторий:  
-```bash
+# Клонируйте репозиторий:  
 git clone git@github.com:qapasaskhat/weathermap.git
 
-Перейдите в директорию проекта:  
-```bash
+# Перейдите в директорию проекта:  
 cd project-name
 
-Установите зависимости
-```bash
+# Установите зависимости
 npm install
 # или
 yarn install
 
-Запустите проект
-```bash
+# Запустите проект
 expo start
 # или
 npx expo start
